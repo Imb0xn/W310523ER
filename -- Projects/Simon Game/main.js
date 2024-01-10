@@ -10,6 +10,9 @@ function initGame() {
     console.log('Game initiated...');
 }
 
+
+
+
 function eventHandler() {
     initGame();
 }
